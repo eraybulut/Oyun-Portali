@@ -1,0 +1,229 @@
+C:\Users\erayb\source\repos\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\erayb\source\repos\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\erayb\source\repos\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\pc\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\pc\source\repos\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\pc\source\repos\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\pc\source\repos\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\pc\source\repos\gorsel_proje\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\gorsel_proje (2)\gorsel_proje\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_proje\gorsel_proje\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\source\repos\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\erayb\source\repos\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\erayb\source\repos\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form7.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form8.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form9.resources
+C:\Users\pc\OneDrive\Masaüstü\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form10.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form10.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form7.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form8.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form9.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form10.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form7.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form8.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form9.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\OGRENCI\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form10.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form7.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form8.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form9.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form10.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form7.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form8.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form9.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\temizolan (1)\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe.config
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\bin\Debug\nesneodev.pdb
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\bin\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.AssemblyReference.cache
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\Interop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.ResolveComReference.cache
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form1.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form10.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form2.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form3.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form4.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form5.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form6.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form7.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form8.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Form9.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.Properties.Resources.resources
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.GenerateResource.cache
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.csproj.CoreCompileInputs.cache
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.exe
+C:\Users\erayb\Desktop\gorsel_programlama\temizolan (1)\nesneodev\nesneodev\obj\Debug\nesneodev.pdb
